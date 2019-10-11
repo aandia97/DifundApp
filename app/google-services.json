@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64177539507",
+    "firebase_url": "https://difundapp.firebaseio.com",
+    "project_id": "difundapp",
+    "storage_bucket": "difundapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64177539507:android:6c666d00702e940c56a3c6",
+        "android_client_info": {
+          "package_name": "com.example.difundapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64177539507-bm1n445cc67735291trl6bbga1s52erl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.difundapp",
+            "certificate_hash": "e934537fa4962f084a0412d18a2f65084f34f8e1"
+          }
+        },
+        {
+          "client_id": "64177539507-com832o3rdnvb9rif89be48vpcobscqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU4hlN6PEjSXPvyq4qYMBPDc-r4cgSWH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64177539507-com832o3rdnvb9rif89be48vpcobscqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
